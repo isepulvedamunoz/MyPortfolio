@@ -1,0 +1,7 @@
+- Falta ver detalles en el index principal
+- Empezar a configurar los projects
+- Asignar una foto a cada projecto
+- Revision de los contenidos
+- Llenar lso contenidos de la pagina
+- Ver como hacer deploy en la nube
+- Ver si se puede crear nuevas app en la pagina
