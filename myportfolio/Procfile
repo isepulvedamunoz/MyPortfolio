@@ -1,3 +1,1 @@
-release: python manage.py migrate
-web: gunicorn myportfolio.wsgi --log-file -
-web: python myportfolio/manage.py runserver 0.0.0.0:$PORT
+web: gunicorn myportfolio.wsgi
